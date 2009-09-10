@@ -1,0 +1,17 @@
+// trayres.rc
+// Original Code by Massimiliano Miani
+
+#include "tray.h"
+//App icon
+APP_ICON  ICON  DISCARDABLE  "logo.ico"
+//Tray icon
+TRAY_ICON  ICON  DISCARDABLE  "logo.ico"
+//Pref Icon
+
+//Popup menu icons
+//IDB_MENU_CHECK BITMAP DISCARDABLE "restore.bmp"
+//IDB_MENU_CLOSE BITMAP DISCARDABLE "close.bmp"
+//IDB_MENU_ABOUT BITMAP DISCARDABLE "about.bmp"
+
+
+
