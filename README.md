@@ -2,9 +2,9 @@
 
 ###### CURRENT STATUS --> (Started working on new version with more features and soon will be out of beta!) ######
 
-MonitorES is a small windows utility that helps you to turnoff monitor display when you lock down your machine.Also when you lock your machine, it will pause all your running media programs & set your IM status message to "Away" / Custom message(via options) and restore it back to normal when you back.
+MonitorES is a small Windows system tray utility that helps you to turn off your monitor display when you lock down your machine (Win + L). Also when you lock your machine, it will pause all of your running media programs & set your IM status message to "Away" / custom message (via options) and restore it back to normal when you come back.
 
-According to [this](http://www.doit.wisc.edu/news/story.asp?filename=598) research statistics we could save lot of energy by turning off monitor display.
+According to [these](http://www.doit.wisc.edu/news/story.asp?filename=598) research statistics we could save lot of energy by turning off monitor display.
 
 ### Download ###
 
