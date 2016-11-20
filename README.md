@@ -10,20 +10,14 @@ According to [these](http://www.doit.wisc.edu/news/story.asp?filename=598) resea
 
 #### MonitorES 1.0.1(b) ####
 
-**Recommended** -
+**Recommended** 
 
-![http://code.google.com/hosting/images/dl_arrow.gif](http://code.google.com/hosting/images/dl_arrow.gif)
-[Latest MonitorES for Windows XP/Vista/7 Installer ](http://monitores.googlecode.com/files/MonitorES_1.0.1b_Installer.exe)
-
-![http://code.google.com/hosting/images/dl_arrow.gif](http://code.google.com/hosting/images/dl_arrow.gif)
-[Latest MonitorES for Windows XP/Vista/7 Zip ](http://monitores.googlecode.com/files/MonitorES_1.0.1b.zip)
-
+https://github.com/ukanth/monitores/releases/download/GoogleCode/MonitorES_1.0.1b.zip
+https://github.com/ukanth/monitores/releases/download/GoogleCode/MonitorES_1.0.1b_Installer.exe
 
 #### MonitorES Lite ####
-![http://code.google.com/hosting/images/dl_arrow.gif](http://code.google.com/hosting/images/dl_arrow.gif) [MonitorES Lite Installer](http://monitores.googlecode.com/files/MonitorES_Setup.msi)
 
-![http://code.google.com/hosting/images/dl_arrow.gif](http://code.google.com/hosting/images/dl_arrow.gif) [MonitorES Lite Executable](http://monitores.googlecode.com/files/MonitorESLite.exe)
-
+https://github.com/ukanth/monitores/releases/download/GoogleCode/MonitorESLite.exe
 
 **Features**
   * Automatically turnoff monitor.
